@@ -612,6 +612,9 @@ h3 {
    
 /*	width: 100%;*/
 }
+.team {
+    padding-bottom:3rem;
+}
 .team h3 {
     border-bottom:2px solid #fff;
     font-weight: 600;
