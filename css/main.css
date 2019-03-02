@@ -612,21 +612,6 @@ h3 {
    
 /*	width: 100%;*/
 }
-.team {
-    padding-bottom:4em;
-}
-.team h3 {
-    font-weight: 800;
-    letter-spacing: 0em;
-    border-bottom:2px solid #fff;
-}
-.team-ul {
-    list-style-type: none;
-    padding:0;
-    
-        text-align:center;
-}
-
 
 .footer ul {
 	list-style: none;
