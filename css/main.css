@@ -4,13 +4,11 @@
       color: #fff;
       letter-spacing: 0.1rem;
       overflow: scroll;
+   
    }
-
-   /*
-   .container-fluid {
-      overflow: hidden;
-   }
-*/
+html {
+   scroll-behavior: smooth;
+}
 
    /* General styles */
    .title-text {

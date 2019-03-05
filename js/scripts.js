@@ -119,35 +119,7 @@
          carouselNormalization($avroSlider);
          carouselNormalization($dadirriSlider);
       }
-      
-//      function moveEvent(section, activeSlide, prevSlide) {
-//
-//        
-//         
-//      }
-      
-//      $sections.each(function(){
-//         new Waypoint({
-//            element:this,
-//            handler: function(direction){
-//               
-//               if(this.element.id == 'video'){
-//                  $activeSection = 0;
-//               }
-//               else if(this.element.id == 'avro'){
-//                  $activeSection = 1;
-//               }
-//               else if(this.element.id == 'dadirri'){
-//                  $activeSection = 2;
-//               }
-//               else if(this.element.id == 'team'){
-//                  $activeSection = 3;
-//               }
-//
-//            }
-//            
-//         });
-//      });
+   
 
   $sections.each(function(){
      new Waypoint.Inview({
