@@ -17,6 +17,7 @@
       line-height: 1.6em;
       color: #fff;
       font-weight: 400;
+      font-style: normal;
    }
 
    .title-text:after {
@@ -251,6 +252,7 @@
       font: 7rem 'Berkshire Swash', 'Roboto Condensed', Helvetica, sans-serif;
       font-weight: 700;
       line-height: 12rem;
+      font-style: normal;
    }
 
    .title-heading1:after {
